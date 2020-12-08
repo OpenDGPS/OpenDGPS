@@ -1,5 +1,8 @@
-### Hi there 👋
+### Distributed and calloborative differential GNSS network
 
+OpenDGPS stands for "Open Differential Gloobal Positioning System". Its main purpose is to provide free differential data to enable any user to get a much higher accurace out of its GPS receiver. Instead accuracies around 2m modern GPS receivers with additional differential data can provide an accuracy below 2cm.
+
+(To be accurate not only in the positioning domain but also in the wording in general, GPS instead of the technical correct term GNSS is used only because it is much more common.) 
 <!--
 **OpenDGPS/OpenDGPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
